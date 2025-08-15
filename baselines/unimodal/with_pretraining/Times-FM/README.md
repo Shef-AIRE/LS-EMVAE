@@ -1,0 +1,2 @@
+# Times-FM
+For Times-FM, we used the timesfm-2.0-500m-pytorch pretrained model published by Google. You need to clone the repository at https://github.com/google-research/timesfm and place the .py and .sh files inside the notebook folder for fine-tuning with the ASPIRE registry and UK Biobank datasets.

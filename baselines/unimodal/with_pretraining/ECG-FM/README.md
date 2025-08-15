@@ -1,0 +1,2 @@
+# ECG-FM
+ECG-FM used the same pretrained dataset, MIMIC-IV-ECG. We directly used their pretrained model to fine-tune on our downstream task dataset. To run this baseline, you need to clone the repository at https://github.com/bowang-lab/ECG-FM and replace the infer_quickstart.ipynb file inside the notebooks folder with ours.

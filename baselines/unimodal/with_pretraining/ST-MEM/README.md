@@ -1,0 +1,2 @@
+# ST-MEM
+For ST-MEM pretraining and fine-tuning, you need to clone the repository at https://github.com/bakqui/ST-MEM and replace the provided .py files for pretraining and fine-tuning with our dataset-specific versions.
