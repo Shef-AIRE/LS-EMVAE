@@ -10,7 +10,7 @@ This repository contains the PyTorch implementation of the **LS-EMVAE** framewor
 The source code developed in Python 3.11 using PyTorch 2.3. **LSEMVAE** has been pre-trained on an NVDIA A100 NVLink 80GB GPU with 256GB RAM.
 
 
-## Datasets and Pre-trained models
+## Datasets
 The `datasets` for pre-training can be accessed through PhysioNet. MIMIC-IV-ECG is an open-access dataset, and you can find it [here](https://physionet.org/content/mimic-iv-ecg/1.0/).
 
 The in-house ASPIRE registry dataset contains sensitive patient data which cannot be made public because of the General Data Protection Regulation (GDPR).
